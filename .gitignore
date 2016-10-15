@@ -1,0 +1,16 @@
+Debug
+Release
+*.cof
+*.hex
+*.obj
+*.elf
+*.conf
+*.o
+*.bin
+*.lst
+*.map
+*.srec
+*.tmp
+.DS_STORE
+default
+bin
